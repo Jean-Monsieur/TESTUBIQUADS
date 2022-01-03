@@ -1,0 +1,7 @@
+.App {
+    font-size: smaller;
+    background-color: #e9ecef;
+    max-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
+}
